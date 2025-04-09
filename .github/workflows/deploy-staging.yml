@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: oalmaguer-azure-ttt
-  AZURE_WEBAPP_NAME: oalmaguer-ttt-app
+  DOCKER_IMAGE_NAME: oalmaguer2-azure-ttt
+  AZURE_WEBAPP_NAME: oalmaguer2-ttt-app
   ###############################################
 
 jobs:
